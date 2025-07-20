@@ -1,0 +1,3 @@
+C:/code/Game/VulkanProject/cmake-build-debug/CMakeFiles/VulkanProject.dir
+C:/code/Game/VulkanProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code/Game/VulkanProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
